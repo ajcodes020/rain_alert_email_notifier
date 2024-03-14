@@ -8,13 +8,15 @@
   - Copy the code and replace the MY_PASSWORD in main.py file.
   - Note: the code should be enclosed in double quotes ("")
 ## Create account - openweathermap.org
-- Sign Up and Login
-  - Enter username, email, password
-  - Company:
-  - Purpose:
-  - Verify email
-- Go to "My API keys" dropdown of your username.
-  - Copy the code below the "Key" and replace the API_KEY in main.py file
+- Go to https://openweathermap.org/
+  - Sign Up and Login
+    - Enter username, email, password
+    - Company:
+    - Purpose:
+    - Verify email
+  - Go to "My API keys" dropdown of your username.
+    - Copy the code below the "Key" and replace the API_KEY in main.py file
+    - Note: the code should be enclosed in double quotes ("")
 ## Find your Latitude and Longitude
 - Go to https://www.latlong.net/
   - Type your location under the "Place Name", then click "Find".
