@@ -1,5 +1,5 @@
 # rain_alert_email_notifier
-- API source: https://openweathermap.org/
+- API source: https://openweathermap.org/api
 ## Setup Google App Password
 - Go to "Manage Your Google Account"
   - Go to Security
